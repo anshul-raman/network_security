@@ -1,4 +1,4 @@
-# Encypher Decypher program using Atbash algorithm 
+# Encipher / Decipher  webapp using Atbash algorithm 
 
 
 ## Requirements 
